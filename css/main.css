@@ -1,0 +1,22 @@
+.team {
+
+    text-align: center;
+
+}
+
+p {
+
+    color: rgb(137, 149, 149);
+
+}
+
+.item {
+
+    float: left;
+    width: 33%;
+    height: 150px;
+}
+
+.clearfix {
+    clear: left;
+}
